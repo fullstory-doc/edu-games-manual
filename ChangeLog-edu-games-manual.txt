@@ -1,0 +1,167 @@
+CHANGELOG sidux Community Software Selections
+_______________________________________________________________________
+Fri 28-08-2009 0350 UTC
+Version sidux -cssm-manual-00.26-2009-08-25
+*added to menump-xx new main menu topic 'Instant Messengers/VOIP/SIP'
+*added new menu to all langs and updated all files
+*added 14 new files for Instant Messengers/VOIP/SIP clients they have the identifier of mp-im-clientXXXX-xx.htm
+*added plac holder pics for screenshots yet to be done
+*added pics for tuxmath
+*broken link fixes (thanks to Luis_P for finding them)
+_______________________________________________________________________
+Thurs 13-08-2009 0350 UTC
+Version sidux sidux-manual-meta-00.25-2009-08-05
+
+*name change form meta-manual to sidux Community Software Selections
+*rebuilt svn to to massive inattention which wiped it out
+*all <title> </title> 		updated
+*mp-g-childsplay-xx			broken link fixed
+*mp-g-blobwars-xx			broken link fixed
+*mp-g-backgammon-xx		deleted file no longer in sid
+*mp-g-klickity-xx			deleted file no longer in sid
+*mp-g-ksokoban-xx			deleted file no longer in sid
+_______________________________________________________________________
+CHANGELOG sidux Meta-Manual
+_______________________________________________________________________
+Thurs 30-04-2009 0600 UTC
+Version sidux-manual-meta-00.23-2009-04-30
+Menu changes applied for all langs all files for lang pack addition of portugese
+
+Wed 29/04/2009 1430  UTC
+
+sys-admin-meta-XX	added portugese to list of available lang packs
+menump-XX		added portugese
+mp-l-language-XX	added description for portugese lang pack
+_______________________________________________________________________
+Wed 01/04/2009 1545  UTC
+
+Version sidux-manual-meta-00.22-2009-01-02
+
+MAJOR CHANGES
+lib/images-games/
+zsnes		new pics for kde4
+wine		new pics for kde4
+vba		new pics for kde4
+scummvm		new pics for kde4
+pcsx		new pics for kde4
+ninvaders	new pics for kde4
+moon-buggy	new pics for kde4
+ktuberling	new pics for kde4
+kshisen		new pics for kde4
+kpat		new pics for kde4
+knetwalk	new pics for kde4
+kmines		new pics for kde4
+khangman	new pics for kde4
+kdiamond	new pics for kde4
+dosbox		new pics for kde4
+
+FILE CHANGES
+*mp-g-list-xx.htm		updated games list
+mp-g-zsnes-xx.htm		new files and alts for kde4
+mp-g-wine-xx.htm		new files and alts for kde4
+mp-g-vba-xx.htm			new files and alts for kde4
+mp-g-scummvm-xx.htm		new files and alts for kde4
+mp-g-pcsx-xx.htm		new files and alts for kde4
+mp-g-ninvaders-xx.htm		new files and alts for kde4
+mp-g-moon-buggy-xx.htm		new files and alts for kde4
+mp-g-ktuberling-xx.htm		new files and alts for kde4
+mp-g-kshisen-xx.htm		new files and alts for kde4
+mp-g-kpat-xx.htm		new files and alts for kde4
+mp-g-knetwalk-xx.htm		new files and alts for kde4
+mp-g-kmines-xx.htm		new files and alts for kde4
+mp-g-khangman-xx.htm		new files and alts for kde4
+mp-g-kdiamond-xx.htm		new files and alts for kde4
+mp-g-dosbox-xx.htm		new files and alts for kde4
+
+_______________________________________________________________________
+
+Sun 22/03/2009 0300  UTC
+
+Version sidux-manual-meta-00.22.2009.01.02
+
+MAJOR CHANGES
+Nil
+
+FILE CHANGES
+credit-xx		imported from sidux OS manual
+help-xx			imported from sidux OS manual
+sys-admin-apt		imported from sidux OS manual
+sys-admin-meta-xx	imported from sidux OS manual
+_______________________________________________________________________
+Saturday 03/01/2009 1100  UTC
+
+Version sidux-manual-meta-00.22.2009.01.02
+
+MAJOR CHANGES
+updated the menus to includes search function  
+manual-search-xx	imported from sidux OS manual and altered for online search only
+
+FILE CHANGES
+menump-xx		updated to include search
+manual-search		imported from sidux OS manual and altered for online search only
+credit-xx		imported from sidux OS manual
+sys-admin-apt		imported from sidux OS manual
+
+_______________________________________________________________________
+Tues 09/10/2007 1300 AEST Yues 09/10/2007 0300 UTC
+
+Version  sidux-manual-meta-00.16.2007.10.09
+
+MAJOR CHNAGES
+updated the menus  
+dreamchess, crossfire and falconseye pics have been added to images-games in the lib
+
+Turned off -ru and -fr in the flag index, until translations start coming in
+Turned on Dutch in the flag index as translation starting to happen
+altered index file accordingly
+
+FILE CHANGES
+mp-g-list-xx			pouetchess  dumped because it was unusable /buggy lately.
+					replaced with dreamchess  lines  413
+					added crossfire and  falconseye to RPG list lines 453 -458
+
+mp-g-dreachess-xx		new file
+mp-g-crossfire-xx		new file
+mp-g-falconeye-xx		new file
+
+_______________________________________________________________________
+Mon 01/10/2007 1100 AEST Mon 01/10/2007 0100 UTC
+
+Version  sidux-manual-meta-00.15.2007.10.07
+
+MAJOR CHNAGES
+updated the menus  
+
+FILE CHANGES
+Translated filesfor -es and pt-br
+
+_______________________________________________________________________
+Mon 01/10/2007 1100 AEST Mon 01/10/2007 0100 UTC
+
+Version  sidux-manual-meta-00.14.2007.09.28
+
+MAJOR CHNAGES
+updated the menus  
+
+FILE CHANGES
+menu updated for es and pt-br
+There are 132 files per lang
+
+_______________________________________________________________________
+Thurs 06/09/2007 0900 AEST Wed 05/09/2007 2300 UTC
+
+Version  sidux-manual-meta-00.12.2007.09.06
+
+MAJOR CHNAGES
+NIL
+
+FILE CHANGES
+alts made to de games list  to get fix broken links
+New files added
+alien-arena
+tremulous
+sauerbratten
+warsow
+non-free updated
+
+__________________________________________________________
